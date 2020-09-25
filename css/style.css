@@ -1,6 +1,11 @@
 .cover{
   width: 100%;
 }
+.nav{
+  position: absolute;
+  top:0px;
+}
+
 .intro{
   background-color: none;
   position: absolute;
